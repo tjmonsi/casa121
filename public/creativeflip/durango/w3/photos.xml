@@ -1,0 +1,1151 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "2/17/09">
+	<sitename>Tamazula, Agua Caliente</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email>be@begrafic.com</email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Helvetica" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Helvetica" fontsize = "4" color = "#F0F0F0" border = "1" rows = "4" col = "4"> </thumbnail> 
+<large base ="images/" font = "Helvetica" fontsize = "3" color = "#F0F0F0" border = "1"> </large>
+<images id = "images">
+
+<image
+path = "008.jpg"
+width = "450"
+height = "300"
+thumbpath = "008.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "010.jpg"
+width = "450"
+height = "300"
+thumbpath = "010.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "005.jpg"
+width = "450"
+height = "300"
+thumbpath = "005.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "011.jpg"
+width = "450"
+height = "300"
+thumbpath = "011.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "012.jpg"
+width = "450"
+height = "300"
+thumbpath = "012.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "013.jpg"
+width = "450"
+height = "300"
+thumbpath = "013.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "014.jpg"
+width = "450"
+height = "300"
+thumbpath = "014.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "015.jpg"
+width = "450"
+height = "300"
+thumbpath = "015.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "017.jpg"
+width = "450"
+height = "300"
+thumbpath = "017.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "021.jpg"
+width = "450"
+height = "300"
+thumbpath = "021.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "023.jpg"
+width = "450"
+height = "300"
+thumbpath = "023.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "augas (1c).jpg"
+width = "450"
+height = "300"
+thumbpath = "augas (1c).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (33).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (33).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (39).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (39).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (31).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (31).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (32).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (32).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (42).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (42).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (43).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (43).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (44).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (44).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (10).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (10).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (45).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (45).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (11).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (11).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (12).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (12).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (1a).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (1a).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (2).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (2).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (4).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (4).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (5).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (5).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (6).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (6).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (8).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (8).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (13).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (13).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (14).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (14).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (15).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (15).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (17).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (17).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (18).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (18).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (19).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (19).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (20).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (20).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (22).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (22).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (24).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (24).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (25).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (25).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (26).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (26).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (27).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (27).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (28).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (28).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (29).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (29).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (30).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (30).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (34).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (34).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (35).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (35).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (36).jpg"
+width = "450"
+height = "300"
+thumbpath = "aguas (36).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "aguas (37).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (37).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "aguas (38).jpg"
+width = "300"
+height = "450"
+thumbpath = "aguas (38).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "eXpo (2).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (2).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (1).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (1).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (4).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (4).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (7).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (7).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (9).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (9).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (10).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (10).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (11).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (11).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (14).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (14).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (15).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (15).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (16).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (16).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (18).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (18).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (20).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (20).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (21).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (21).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (22).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (22).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (24).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (24).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (25).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (25).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (26).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (26).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (28).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (28).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (32).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (32).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (33).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (33).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (34).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (34).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (35).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (35).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo (36).jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo (36).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "eXpo.jpg"
+width = "450"
+height = "300"
+thumbpath = "eXpo.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (10).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (10).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (11).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (11).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (12).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (12).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (1).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (1).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (2).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (2).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (3).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (3).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (4).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (4).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (5).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (5).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (6).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (6).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (7).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (7).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (8).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (8).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (9).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (9).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (13).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (13).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula (14).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula (14).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (2).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (2).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (3).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (3).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (4).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (4).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (5).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (5).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (8).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (8).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (9).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (9).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (11).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (11).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "tamazula_due (12).jpg"
+width = "450"
+height = "300"
+thumbpath = "tamazula_due (12).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "024.jpg"
+width = "450"
+height = "300"
+thumbpath = "024.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "025.jpg"
+width = "450"
+height = "300"
+thumbpath = "025.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "026.jpg"
+width = "450"
+height = "300"
+thumbpath = "026.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (3).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (3).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (4).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (4).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (5).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (5).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (6).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (6).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (8).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (8).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (10).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (10).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (11).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (11).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (12).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (12).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (14).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (14).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (15).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (15).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "trekbak (16).jpg"
+width = "450"
+height = "300"
+thumbpath = "trekbak (16).jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "adelitas (1).jpg"
+width = "300"
+height = "450"
+thumbpath = "adelitas (1).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "adelitas (3).jpg"
+width = "300"
+height = "450"
+thumbpath = "adelitas (3).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "adelitas (4).jpg"
+width = "300"
+height = "450"
+thumbpath = "adelitas (4).jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+
+<image
+path = "adelitas.jpg"
+width = "300"
+height = "450"
+thumbpath = "adelitas.jpg"
+thumbwidth = "50"
+thumbheight = "75">
+</image>
+
+</images>
+</gallery>
